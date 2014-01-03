@@ -153,8 +153,8 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	//background: url(../img/binding_darker.png) repeat;
-  background: #2f2f2f;
+	background: url(../img/header-bg.jpg) no-repeat top center;
+  //background: #2f2f2f;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
