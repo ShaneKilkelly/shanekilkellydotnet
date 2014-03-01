@@ -73,6 +73,11 @@ a:after {
 }
 
 
+#portfolio img {
+    border: 1px solid #ddd;
+}
+
+
 /*---------------------------------------------------
 	3.1 Topbar
 ---------------------------------------------------*/
@@ -108,7 +113,7 @@ a:after {
 	margin: 0;
 	padding: 0;
 
-	border-right: 1px solid #222;
+	border-right: 1px solid #111;
 
 	/* For IE, the outcast */
 	zoom:1;
@@ -127,7 +132,7 @@ a:after {
   font: normal 11px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-decoration: none;
   padding: 18px 20px 18px 20px;
-  border-left: 1px solid #222;
+  border-left: 1px solid #111;
 }
 
 	#section-topbar ul#nav a:hover {
